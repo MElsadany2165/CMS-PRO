@@ -3,7 +3,7 @@
 CMS Pro is an **ultra-responsive Content Management System (CMS)** built with a clean and modern UI.  
 It provides administrators and content creators with powerful tools to manage posts, pages, media, users, and analytics — all in one streamlined dashboard.
 
-![Dashboard Preview](CMS-PRO_1.png.png)
+![Dashboard Preview](CMS-PRO_1.png)
 
 ---
 
@@ -43,4 +43,5 @@ It provides administrators and content creators with powerful tools to manage po
 ---
 
 ## 📂 Project Structure
+
 
