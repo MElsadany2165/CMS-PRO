@@ -35,13 +35,11 @@ It provides administrators and content creators with powerful tools to manage po
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (with Vite) / TailwindCSS  
+- **Frontend:** React (with Vite) / TailwindCSS / HTML
 - **Backend:** Node.js / Express (optional integration)  
 - **Database:** MongoDB / SQL (customizable)  
 - **Other:** Chart.js (for analytics), REST APIs  
 
----
 
-## 📂 Project Structure
 
 
